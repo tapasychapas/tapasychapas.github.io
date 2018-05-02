@@ -42,7 +42,7 @@ Algunos productos agrícolas proceden de más lejos a través de intercambios en
 
 # ¿Cómo se hacen los pedidos?
 
-Se hacen a través de (karakolas)[https://karakolas.net/], una aplicación web accesible desde Internet en la que fácilmente cada cesta puede ver los productos disponibles y rellenar un formulario indicando la cantidad que desea de cada cosa.
+Se hacen a través de [karakolas](https://karakolas.net/), una aplicación web accesible desde Internet en la que fácilmente cada cesta puede ver los productos disponibles y rellenar un formulario indicando la cantidad que desea de cada cosa.
 
 En cuanto te asignemos cesta, otro compa te explicará cómo funciona, pero verás que es muy sencillo.
 
@@ -70,7 +70,7 @@ Si se te ocurre otra solución (quizá piensas que puedes asumir una nueva tarea
 
 # ¿Puedo pasarme a conoceros?
 
-Por supuesto, puedes venir directamente a algún reparto o asamblea y presentarte. Para preguntar cual es la próxima puedes dirigirte a [tapasychapas@gmail.com](mailto:tapasychapas@gmail.com?subject=Quiero+unirme+al+grupo de+consumo).
+Por supuesto, puedes venir directamente a algún reparto o asamblea y presentarte. Para preguntar cual es la próxima puedes dirigirte a [tapasychapas@gmail.com](mailto:tapasychapas@gmail.com?subject=Quiero+unirme+al+grupo+de+consumo).
 
 # ¿Algo más que deba saber?
 
