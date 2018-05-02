@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header, footer {
+  display: none !importan;
+}
+
+section {
+    width: unset !importan;
+    float: unset !importan;
+}
