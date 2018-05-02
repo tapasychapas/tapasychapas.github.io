@@ -16,7 +16,7 @@ No es obligatorio ni pedir de todo, ni pedir un mínimo, ni pedir en todos los p
 
 Hacemos pedidos cada 2 semanas: el pedido se rellena entre el martes y el jueves de una semana y se reparte el martes de la semana siguiente.
 
-El reparto se hace en [http://casadelbarriocarabanchel.es/](La Casa del Barrio), [https://www.google.es/maps/place/Av.+de+Carabanchel+Alto,+64,+28044+Madrid](Av. de Carabanchel Alto 64), y por lo tanto se recogen las cestas ahí mismo. Por ello debes estar disponible para acudir los mártes entre que se finaliza el reparto y se cierra la casa (más o menos entre las 19:30pm y las 21:00).
+El reparto se hace en [La Casa del Barrio](http://casadelbarriocarabanchel.es/), [Av. de Carabanchel Alto 64](https://www.google.es/maps/place/Av.+de+Carabanchel+Alto,+64,+28044+Madrid), y por lo tanto se recogen las cestas ahí mismo. Por ello debes estar disponible para acudir los mártes entre que se finaliza el reparto y se cierra la casa (más o menos entre las 19:30pm y las 21:00).
 
 # ¿Qué se puede pedir?
 
@@ -26,7 +26,7 @@ Si eres vegetariana o vegana debes tener en cuenta que, aunque no te vamos a obl
 
 # ¿Cuanto cuesta?
 
-El precio depende de lo que pidas y puede ir variando pero si quieres hacerte una idea puedes [#](consultar ejemplos de pedidos pasados).
+El precio depende de lo que pidas y puede ir variando pero si quieres hacerte una idea puedes [consultar ejemplos de pedidos pasados](#).
 
 # ¿Los productores tienen sello ecológico?
 
@@ -42,11 +42,11 @@ Algunos productos agrícolas proceden de más lejos a través de intercambios en
 
 # ¿Cómo se hacen los pedidos?
 
-Se hacen a través de (https://karakolas.net/)[Karakolas], una aplicación web accesible desde Internet en la que fácilmente cada cesta puede ver los productos disponibles y rellenar un formulario indicando la cantidad que desea de cada cosa.
+Se hacen a través de (karakolas)[https://karakolas.net/], una aplicación web accesible desde Internet en la que fácilmente cada cesta puede ver los productos disponibles y rellenar un formulario indicando la cantidad que desea de cada cosa.
 
 En cuanto te asignemos cesta, otro compa te explicará cómo funciona, pero verás que es muy sencillo.
 
-Adicionalmente tenemos una lista de correo ([mailto:tapasychapas+subscribe@googlegroups.com?subjet=Solicito+suscribirme+a+esta+lista](tapasychapas@googlegroups.com)) en la que todas las cestas pueden escribir, preguntar sus dudas o recibir cualquier aviso si ha habido algún problema.
+Adicionalmente tenemos una lista de correo ([tapasychapas@googlegroups.com](mailto:tapasychapas+subscribe@googlegroups.com?subjet=Solicito+suscribirme+a+esta+lista)) en la que todas las cestas pueden escribir, preguntar sus dudas o recibir cualquier aviso si ha habido algún problema.
 
 # ¿Cuesta algo apuntarse al grupo?
 
@@ -58,7 +58,7 @@ Pertenecer al grupo implica trabajar para él. Realizamos asambleas cada mes y m
 
 Estas tareas consisten en: colgar en Internet la hoja de pedidos, generar las listas de pedidos para los productores, enviar los pedidos a los productores, recepcionar los pedidos en el local, hacer los repartos, llevar las cuentas, atender el correo electrónico del grupo, limpiar el espacio usado tras el reparto, ser la persona de contacto con algún productor, etc.
 
-Adicionalmente,como usamos gratuitamente el espacio de [http://casadelbarriocarabanchel.es/](La Casa del Barrio) a cambio el grupo se compromete a participar ocasionalmente en tareas de cuidado del local o en la elaboración de tapas para alguna actividad de La Casa. Esta tarea también ira rotando entre las cestas del grupo.
+Adicionalmente,como usamos gratuitamente el espacio de [La Casa del Barrio](http://casadelbarriocarabanchel.es/) a cambio el grupo se compromete a participar ocasionalmente en tareas de cuidado del local o en la elaboración de tapas para alguna actividad de La Casa. Esta tarea también ira rotando entre las cestas del grupo.
 
 Aunque pueda parecer mucho trabajo, realmente se trata de tareas asequibles y muchas de ellas muy espaciadas en el tiempo, de manera que con un mínimo de voluntad es seguro que podrás hacer algo :)
 
@@ -70,8 +70,8 @@ Si se te ocurre otra solución (quizá piensas que puedes asumir una nueva tarea
 
 # ¿Puedo pasarme a conoceros?
 
-Por supuesto, puedes venir directamente a algún reparto o asamblea y presentarte. Para preguntar cual es la próxima puedes dirigirte a [mailto:tapasychapas@gmail.com?subject=Quiero+unirme+al+grupo de+consumo](tapasychapas@gmail.com).
+Por supuesto, puedes venir directamente a algún reparto o asamblea y presentarte. Para preguntar cual es la próxima puedes dirigirte a [tapasychapas@gmail.com](mailto:tapasychapas@gmail.com?subject=Quiero+unirme+al+grupo de+consumo).
 
 # ¿Algo más que deba saber?
 
-Si, el grupo de consumo toma las decisiones por asamblea, eso quiere decir que aunque en la inmensa mayoría de los casos unirse la grupo es prácticamente automático tienes que tener en cuenta que si surge alguna duda (por ejemplo, nos planteas que no puedes asumir las tareas que se describen aquí pero se te ocurre otra cosa que podrías hacer para ayudar al grupo) tardaremos en contestarte porque la persona que esta tras el correo electrónico, o la que te atendió en persona el día que fuste a [http://casadelbarriocarabanchel.es/](La Casa del Barrio), no puede decidir por si sola y habrá que esperar a que haya una asamblea.
+Si, el grupo de consumo toma las decisiones por asamblea, eso quiere decir que aunque en la inmensa mayoría de los casos unirse la grupo es prácticamente automático tienes que tener en cuenta que si surge alguna duda (por ejemplo, nos planteas que no puedes asumir las tareas que se describen aquí pero se te ocurre otra cosa que podrías hacer para ayudar al grupo) tardaremos en contestarte porque la persona que esta tras el correo electrónico, o la que te atendió en persona el día que fuste a [La Casa del Barrio](http://casadelbarriocarabanchel.es/), no puede decidir por si sola y habrá que esperar a que haya una asamblea.
