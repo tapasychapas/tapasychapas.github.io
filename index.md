@@ -20,7 +20,7 @@ El reparto se hace en [La Casa del Barrio](http://casadelbarriocarabanchel.es/),
 
 # ¿Qué se puede pedir?
 
-Repartimos una amplia gama de productores: frutas, verduras, huevos, harinas, pastas, panes, vino, aceite, carne, aves, pescado, cosmética natural...
+Repartimos una amplia gama de productores: frutas, verduras, huevos, pastas, panes, vino, aceite, carne, pescado, cosmética natural...
 
 Si eres vegetariana o vegana debes tener en cuenta que, aunque no te vamos a obligar a manipular productos de origen animal, estos van a estar presentes en el reparto.
 
