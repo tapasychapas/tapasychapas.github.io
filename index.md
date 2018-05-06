@@ -18,15 +18,12 @@ Hacemos pedidos cada 2 semanas: el pedido se rellena entre el martes y el jueves
 
 El reparto se hace en [La Casa del Barrio](http://casadelbarriocarabanchel.es/), [Av. de Carabanchel Alto 64](https://www.google.es/maps/place/Av.+de+Carabanchel+Alto,+64,+28044+Madrid), y por lo tanto se recogen las cestas ahí mismo. Por ello debes estar disponible para acudir los mártes entre que se finaliza el reparto y se cierra la casa (más o menos entre las 19:30pm y las 21:00).
 
-# ¿Qué se puede pedir?
+# ¿Qué se puede pedir? ¿Cuánto cuesta?
 
 Repartimos una amplia gama de productores: frutas, verduras, huevos, pastas, panes, vino, aceite, carne, pescado, cosmética natural...
+Puedes consultar una [lista completa de productos y precios aquí](productos).
 
 Si eres vegetariana o vegana debes tener en cuenta que, aunque no te vamos a obligar a manipular productos de origen animal, estos van a estar presentes en el reparto.
-
-# ¿Cuanto cuesta?
-
-El precio depende de lo que pidas y puede ir variando pero si quieres hacerte una idea puedes [consultar ejemplos de pedidos pasados](#).
 
 # ¿Los productores tienen sello ecológico?
 
