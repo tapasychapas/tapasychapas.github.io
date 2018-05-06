@@ -12,11 +12,11 @@ No hay cesta cerrada, tú pides sólo los productos que te apetezcan y la cantid
 
 No es obligatorio ni pedir de todo, ni pedir un mínimo, ni pedir en todos los pedidos pero obviamente lo suyo es tener ganas de hacerlo :P
 
-# ¿Cada cuanto se pide? ¿Cuando y donde se recoge?
+# ¿Cada cuánto se pide? ¿Cuándo y dónde se recoge?
 
 Hacemos pedidos cada 2 semanas: el pedido se rellena entre el martes y el jueves de una semana y se reparte el martes de la semana siguiente.
 
-El reparto se hace en [La Casa del Barrio](http://casadelbarriocarabanchel.es/), [Av. de Carabanchel Alto 64](https://www.google.es/maps/place/Av.+de+Carabanchel+Alto,+64,+28044+Madrid), y por lo tanto se recogen las cestas ahí mismo. Por ello debes estar disponible para acudir los mártes entre que se finaliza el reparto y se cierra la casa (más o menos entre las 19:30pm y las 21:00).
+El reparto se hace en [La Casa del Barrio](http://casadelbarriocarabanchel.es/), [Av. de Carabanchel Alto 64](https://www.google.es/maps/place/Av.+de+Carabanchel+Alto,+64,+28044+Madrid), y por lo tanto se recogen las cestas ahí mismo. Por ello debes estar disponible para acudir los martes entre que se finaliza el reparto y se cierra la casa (más o menos entre las 19:30pm y las 21:00).
 
 # ¿Qué se puede pedir? ¿Cuánto cuesta?
 
@@ -41,7 +41,7 @@ Algunos productos agrícolas proceden de más lejos a través de intercambios en
 
 Se hacen a través de [karakolas](https://karakolas.net/), una aplicación web accesible desde Internet en la que fácilmente cada cesta puede ver los productos disponibles y rellenar un formulario indicando la cantidad que desea de cada cosa.
 
-En cuanto te asignemos cesta, otro compa te explicará cómo funciona, pero verás que es muy sencillo.
+En cuanto te asignemos cesta, otra persona te explicará cómo funciona, pero verás que es muy sencillo.
 
 Adicionalmente tenemos una lista de correo ([tapasychapas@googlegroups.com](mailto:tapasychapas+subscribe@googlegroups.com?subjet=Solicito+suscribirme+a+esta+lista)) en la que todas las cestas pueden escribir, preguntar sus dudas o recibir cualquier aviso si ha habido algún problema.
 
@@ -61,7 +61,7 @@ Aunque pueda parecer mucho trabajo, realmente se trata de tareas asequibles y mu
 
 # ¿Qué pasa si no puedo hacer ninguna de las tareas del grupo de consumo?
 
-Si conoces a alguna persona que ya esta en el grupo, te sugerimos que le pidas entrar en su cesta y así poder obtener productos a través de ella. De esta manera no se aumentan las tareas del grupo de consumo (no hay una cesta más a la que repartir) y las tareas de esa cesta están cubiertas por la persona que ya pertenece al grupo.
+Si conoces a alguna persona que ya está en el grupo, te sugerimos que le pidas entrar en su cesta y así poder obtener productos a través de ella. De esta manera no se aumentan las tareas del grupo de consumo (no hay una cesta más a la que repartir) y las tareas de esa cesta están cubiertas por la persona que ya pertenece al grupo.
 
 Si se te ocurre otra solución (quizá piensas que puedes asumir una nueva tarea en la que no hemos pensado y que mejoraría el grupo) no dudes en plantearlo. Eso sí, no estamos abiertos a compensaciones económicas, es decir, no existe la posibilidad de que algunas cestas no realicen tareas a cambio de pagar un extra.
 
@@ -71,12 +71,12 @@ Por supuesto, puedes venir directamente a algún reparto o asamblea y presentart
 
 # ¿Algo más que deba saber?
 
-Si, el grupo de consumo toma las decisiones por asamblea, eso quiere decir que aunque en la inmensa mayoría de los casos unirse la grupo es prácticamente automático tienes que tener en cuenta que si surge alguna duda (por ejemplo, nos planteas que no puedes asumir las tareas que se describen aquí pero se te ocurre otra cosa que podrías hacer para ayudar al grupo) tardaremos en contestarte porque la persona que esta tras el correo electrónico, o la que te atendió en persona el día que fuste a [La Casa del Barrio](http://casadelbarriocarabanchel.es/), no puede decidir por si sola y habrá que esperar a que haya una asamblea.
+Si, el grupo de consumo toma las decisiones por asamblea, eso quiere decir que aunque en la inmensa mayoría de los casos unirse la grupo es prácticamente automático tienes que tener en cuenta que si surge alguna duda (por ejemplo, nos planteas que no puedes asumir las tareas que se describen aquí pero se te ocurre otra cosa que podrías hacer para ayudar al grupo) tardaremos en contestarte porque la persona que está tras el correo electrónico, o la que te atendió en persona el día que fuste a [La Casa del Barrio](http://casadelbarriocarabanchel.es/), no puede decidir por si sola y habrá que esperar a que haya una asamblea.
 
 # Ok, ¡Me apunto!
 
 Genial. Ahora escribe a [tapasychapas@gmail.com](mailto:tapasychapas@gmail.com?subject=Quiero+unirme+al+grupo+de+consumo), cuéntale que ya te has leído la información de esta web y te has pasado por un reparto o asamblea para conocer el grupo, y pide que te asignen una cesta en [karakolas](https://karakolas.net/).
 
-En cuanto la cesta este asignada recibirás un email con tu usuaria y contraseña, y podrás empezar a pedir para el próximo pedido.
+En cuanto la cesta esté asignada recibirás un email con tu usuaria y contraseña, y podrás empezar a pedir para el próximo pedido.
 
 **¡Bienvenida!**
