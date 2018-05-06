@@ -2,7 +2,7 @@
 title: Productos
 ---
 <div id="productos">
-<p>Esta lista de productos está actualizada a fecha 06/05/2018 20:21 y es solamente orientativa: los precios y la variedad pueden cambiar.<br/>Los precios son por Kg. cuando no se indique lo contrarío.</p>
+<p>Esta lista de productos está actualizada a fecha 06/05/2018 20:41 y es solamente orientativa: los precios y la variedad pueden cambiar.<br/>Los precios son por Kg. cuando no se indique lo contrarío.</p>
 
 <h1>SENDA VERDE</h1>
 
@@ -869,7 +869,7 @@ title: Productos
             </tbody>
 </table>
 
-<h1>HUEVOS (ECO HUERTA RESISTENCIA)</h1>
+<h1>VEGAN MAIDEN</h1>
 
 <table>
     <thead>
@@ -880,8 +880,93 @@ title: Productos
     </thead>
     <tbody>
                 <tr>
-            <td class="precio">3<span class='ceros'>.00</span></td>
-            <td>Docena de huevos
+            <td class="precio">2.20</td>
+            <td>Bolitas de okara y algas 6unid.
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">2.20</td>
+            <td>Bolitas de okara y curry
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">2.50</td>
+            <td>Chorivegano dulce
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">2.50</td>
+            <td>Chorivegano picante
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">2.50</td>
+            <td>Choriveganos de trigo sarraceno dulces
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">2.50</td>
+            <td>Choriveganos de trigo sarraceno picantes
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">2.20</td>
+            <td>Crema de anacardos y hierbas 125gr
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">10<span class='ceros'>.00</span></td>
+            <td>Empanada con sabrosada+queso vegan.1kg
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">10<span class='ceros'>.00</span></td>
+            <td>Empanada con seitàn y verdura de temporada.1kg
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">2<span class='ceros'>.00</span></td>
+            <td>Empanadilla sabrosada y queso
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">2<span class='ceros'>.00</span></td>
+            <td>Empanadilla seitán y verdura de temporada
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">2.50</td>
+            <td>Hamburguesa de verduras
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">2.50</td>
+            <td>Hamburguesa moruna
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">2.50</td>
+            <td>Hamburguesas de verduras y trigo sarraceno
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">2.50</td>
+            <td>Hamburguesas morunas de trigo sarraceno
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">3.20</td>
+            <td>Sabrosada vegana
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">2.50</td>
+            <td>Sinchichas bratwurst
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">2.50</td>
+            <td>Sinchichas bratwurst de trigo sarraceno
                         </td>
         </tr>
             </tbody>
@@ -993,59 +1078,6 @@ title: Productos
                 <tr>
             <td class="precio">1.13</td>
             <td>Naranjas
-                        </td>
-        </tr>
-            </tbody>
-</table>
-
-<h1>QUESARTE SIETE VILLAS</h1>
-
-<table>
-    <thead>
-        <tr>
-        <th class="precio">Precio €</th>
-        <th>Producto</th>
-        </tr>
-    </thead>
-    <tbody>
-                <tr>
-            <td class="precio">14<span class='ceros'>.00</span></td>
-            <td>Queso curado 1 kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">10<span class='ceros'>.00</span></td>
-            <td>Queso curado autoescurrido grande
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">5<span class='ceros'>.00</span></td>
-            <td>Queso curado autoescurrido pequeño
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">7<span class='ceros'>.00</span></td>
-            <td>Queso curado baby 1/2 kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">8<span class='ceros'>.00</span></td>
-            <td>Queso semiazul de coagulación láctica
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">12<span class='ceros'>.00</span></td>
-            <td>Queso tierno madurado 1 kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">6<span class='ceros'>.00</span></td>
-            <td>Queso tierno madurado baby 1/2 kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">4.50</td>
-            <td>Yogur natural 990 gr
                         </td>
         </tr>
             </tbody>
@@ -1404,109 +1436,6 @@ title: Productos
             <td class="precio">4.10</td>
             <td>Veer (pilsner) 75 cl botella
                             <span title="Fianza 0,20 €/botella">&#128712;</span>
-                        </td>
-        </tr>
-            </tbody>
-</table>
-
-<h1>VEGAN MAIDEN</h1>
-
-<table>
-    <thead>
-        <tr>
-        <th class="precio">Precio €</th>
-        <th>Producto</th>
-        </tr>
-    </thead>
-    <tbody>
-                <tr>
-            <td class="precio">2.20</td>
-            <td>Bolitas de okara y algas 6unid.
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2.20</td>
-            <td>Bolitas de okara y curry
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2.50</td>
-            <td>Chorivegano dulce
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2.50</td>
-            <td>Chorivegano picante
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2.50</td>
-            <td>Choriveganos de trigo sarraceno dulces
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2.50</td>
-            <td>Choriveganos de trigo sarraceno picantes
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2.20</td>
-            <td>Crema de anacardos y hierbas 125gr
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">10<span class='ceros'>.00</span></td>
-            <td>Empanada con sabrosada+queso vegan.1kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">10<span class='ceros'>.00</span></td>
-            <td>Empanada con seitàn y verdura de temporada.1kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2<span class='ceros'>.00</span></td>
-            <td>Empanadilla sabrosada y queso
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2<span class='ceros'>.00</span></td>
-            <td>Empanadilla seitán y verdura de temporada
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2.50</td>
-            <td>Hamburguesa de verduras
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2.50</td>
-            <td>Hamburguesa moruna
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2.50</td>
-            <td>Hamburguesas de verduras y trigo sarraceno
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2.50</td>
-            <td>Hamburguesas morunas de trigo sarraceno
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">3.20</td>
-            <td>Sabrosada vegana
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2.50</td>
-            <td>Sinchichas bratwurst
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2.50</td>
-            <td>Sinchichas bratwurst de trigo sarraceno
                         </td>
         </tr>
             </tbody>
@@ -1942,165 +1871,6 @@ title: Productos
             <td class="precio">6.05</td>
             <td>Miso de arroz ecológico
                             <span title="Frasco de 330 gr">&#128712;</span>
-                        </td>
-        </tr>
-            </tbody>
-</table>
-
-<h1>RINCÓN DE SEGURA</h1>
-
-<table>
-    <thead>
-        <tr>
-        <th class="precio">Precio €</th>
-        <th>Producto</th>
-        </tr>
-    </thead>
-    <tbody>
-                <tr>
-            <td class="precio">4.14</td>
-            <td>Aceite de girasol bio, botella 0,75l
-                            <span title="Se piden cajas completas de 12 botellas, si entre todas las unidades y grupos no se llega al mínimo no vendrá">&#128712;</span>
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">19.35</td>
-            <td>Aceite de girasol bio, garrafa 5l
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2.71</td>
-            <td>Azúcar de caña, 1kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">12.45</td>
-            <td>Azúcar de caña, 5kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">1.76</td>
-            <td>Harina de centeno blanca, 1kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">7.50</td>
-            <td>Harina de centeno blanca, 5kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">1.63</td>
-            <td>Harina de centeno integral, 1kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">6.86</td>
-            <td>Harina de centeno integral, 5kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">1.68</td>
-            <td>Harina de centeno semiintegral, 1kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">7.12</td>
-            <td>Harina de centeno semiintegral, 5kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2.46</td>
-            <td>Harina de espelta blanca, 1kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">11<span class='ceros'>.00</span></td>
-            <td>Harina de espelta blanca, 5kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2.26</td>
-            <td>Harina de espelta integral, 1kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">10<span class='ceros'>.00</span></td>
-            <td>Harina de espelta integral, 5kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2.35</td>
-            <td>Harina de espelta semiintegral, 1kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">10.55</td>
-            <td>Harina de espelta semiintegral, 5kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2.39</td>
-            <td>Harina de khorasan integral, 1kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">10.65</td>
-            <td>Harina de khorasan integral, 5kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2.53</td>
-            <td>Harina de khorasan semiintegral, 1kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">11.35</td>
-            <td>Harina de khorasan semiintegral, 5kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">1.74</td>
-            <td>Harina de trigo blanca, 1kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">7.40</td>
-            <td>Harina de trigo blanca, 5kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">1.65</td>
-            <td>Harina de trigo integral, 1kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">6.95</td>
-            <td>Harina de trigo integral, 5kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">1.68</td>
-            <td>Harina de trigo semiintegral, 1kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">7.10</td>
-            <td>Harina de trigo semiintegral, 5kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">2.58</td>
-            <td>Maiz para palomitas, 1kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">3.07</td>
-            <td>Pipa de girasol ecológico, 1kg
-                        </td>
-        </tr>
-                <tr>
-            <td class="precio">3.31</td>
-            <td>Sésamo ecológico, 1kg
                         </td>
         </tr>
             </tbody>
@@ -3535,15 +3305,15 @@ title: Productos
                         </td>
         </tr>
                 <tr>
-            <td class="precio">5<span class='ceros'>.00</span></td>
-            <td>Champú revitalizante de hierbas 
-                            <span title="500ml">&#128712;</span>
-                        </td>
-        </tr>
-                <tr>
             <td class="precio">3<span class='ceros'>.00</span></td>
             <td>Champú revitalizante de hierbas 
                             <span title="250ml">&#128712;</span>
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">5<span class='ceros'>.00</span></td>
+            <td>Champú revitalizante de hierbas 
+                            <span title="500ml">&#128712;</span>
                         </td>
         </tr>
                 <tr>
@@ -3876,15 +3646,15 @@ title: Productos
                         </td>
         </tr>
                 <tr>
-            <td class="precio">6.50</td>
-            <td>Nutritiva antiarrugas piel muy seca
-                            <span title="50ml">&#128712;</span>
-                        </td>
-        </tr>
-                <tr>
             <td class="precio">3.50</td>
             <td>Nutritiva antiarrugas piel muy seca
                             <span title="30ml">&#128712;</span>
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">6.50</td>
+            <td>Nutritiva antiarrugas piel muy seca
+                            <span title="50ml">&#128712;</span>
                         </td>
         </tr>
                 <tr>
