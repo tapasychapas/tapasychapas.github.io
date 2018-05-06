@@ -2,14 +2,14 @@
 title: Productos Tapas y chapas
 ---
 <div id="productos">
-<p>Esta lista de productos esta actualizada a fecha 06/05/2018 18:53 y es solo orientativo, los precios y la variedad puede cambiar.</p>
+<p>Esta lista de productos esta actualizada a fecha 06/05/2018 19:01 y es solo orientativo, los precios y la variedad puede cambiar.</p>
 
 <h1>APISQUILLOS</h1>
 
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -88,7 +88,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -500,7 +500,7 @@ title: Productos Tapas y chapas
                         </td>
         </tr>
                 <tr>
-            <td class="precio">0<span class='ceros'>.00</span></td>
+            <td class="precio"><span title='Por determinar'>?</span><span class='ceros'>.00</span></td>
             <td>250 huesos
                             <span title="Se piden por piezas (son gratis pero se pagan los portes)">&#128712;</span>
                         </td>
@@ -513,7 +513,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -611,24 +611,24 @@ title: Productos Tapas y chapas
             </tbody>
 </table>
 
-<h1>CULTIMAR_PESCADO</h1>
+<h1>CULTIMAR PESCADO</h1>
 
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
     <tbody>
                 <tr>
-            <td class="precio">0<span class='ceros'>.00</span></td>
+            <td class="precio"><span title='Por determinar'>?</span><span class='ceros'>.00</span></td>
             <td>Almeja babosa - precio según mercado
                             <span title="BOLSAS DE 2 KG">&#128712;</span>
                         </td>
         </tr>
                 <tr>
-            <td class="precio">0<span class='ceros'>.00</span></td>
+            <td class="precio"><span title='Por determinar'>?</span><span class='ceros'>.00</span></td>
             <td>Almeja fina - precio según mercado
                             <span title="BOLSAS DE 2 KG">&#128712;</span>
                         </td>
@@ -754,7 +754,7 @@ title: Productos Tapas y chapas
                         </td>
         </tr>
                 <tr>
-            <td class="precio">0<span class='ceros'>.00</span></td>
+            <td class="precio"><span title='Por determinar'>?</span><span class='ceros'>.00</span></td>
             <td>Coquinas de huelva - precio según mercado
                             <span title="CONSULTAR PRECIO. BOLSAS DE 1 KG. SIN TIERRA, MUY BUENAS">&#128712;</span>
                         </td>
@@ -838,7 +838,7 @@ title: Productos Tapas y chapas
                         </td>
         </tr>
                 <tr>
-            <td class="precio">0<span class='ceros'>.00</span></td>
+            <td class="precio"><span title='Por determinar'>?</span><span class='ceros'>.00</span></td>
             <td>Navaja gallega - precio según mercado
                             <span title="CONSULTAR PRECIO. MALLAS DE 1 KG.">&#128712;</span>
                         </td>
@@ -917,7 +917,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -1462,7 +1462,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -1475,7 +1475,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -1584,7 +1584,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -1681,7 +1681,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -1819,15 +1819,15 @@ title: Productos Tapas y chapas
                         </td>
         </tr>
                 <tr>
-            <td class="precio">5<span class='ceros'>.00</span></td>
-            <td>Champú revitalizante de hierbas 
-                            <span title="500ml">&#128712;</span>
-                        </td>
-        </tr>
-                <tr>
             <td class="precio">3<span class='ceros'>.00</span></td>
             <td>Champú revitalizante de hierbas 
                             <span title="250ml">&#128712;</span>
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">5<span class='ceros'>.00</span></td>
+            <td>Champú revitalizante de hierbas 
+                            <span title="500ml">&#128712;</span>
                         </td>
         </tr>
                 <tr>
@@ -1843,15 +1843,15 @@ title: Productos Tapas y chapas
                         </td>
         </tr>
                 <tr>
-            <td class="precio">3<span class='ceros'>.00</span></td>
-            <td>Crema aftershave de sándalo y cedro 
-                            <span title="30ml">&#128712;</span>
-                        </td>
-        </tr>
-                <tr>
             <td class="precio">5<span class='ceros'>.00</span></td>
             <td>Crema aftershave de sándalo y cedro 
                             <span title="65ml">&#128712;</span>
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">3<span class='ceros'>.00</span></td>
+            <td>Crema aftershave de sándalo y cedro 
+                            <span title="30ml">&#128712;</span>
                         </td>
         </tr>
                 <tr>
@@ -1981,15 +1981,15 @@ title: Productos Tapas y chapas
                         </td>
         </tr>
                 <tr>
-            <td class="precio">5<span class='ceros'>.00</span></td>
-            <td>Gel suave para bebé de avena y caléndula 
-                            <span title="500ml">&#128712;</span>
-                        </td>
-        </tr>
-                <tr>
             <td class="precio">3<span class='ceros'>.00</span></td>
             <td>Gel suave para bebé de avena y caléndula 
                             <span title="250ml">&#128712;</span>
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">5<span class='ceros'>.00</span></td>
+            <td>Gel suave para bebé de avena y caléndula 
+                            <span title="500ml">&#128712;</span>
                         </td>
         </tr>
                 <tr>
@@ -2274,7 +2274,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -2292,7 +2292,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -2311,7 +2311,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -2436,7 +2436,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -2472,7 +2472,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -2623,7 +2623,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -2676,7 +2676,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -2688,7 +2688,7 @@ title: Productos Tapas y chapas
                         </td>
         </tr>
                 <tr>
-            <td class="precio">0<span class='ceros'>.00</span></td>
+            <td class="precio"><span title='Por determinar'>?</span><span class='ceros'>.00</span></td>
             <td>Cabritos lechales llamar a mario
                             <span title="Consultarle al 689399738">&#128712;</span>
                         </td>
@@ -2755,7 +2755,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -2786,7 +2786,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -2945,7 +2945,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -3104,7 +3104,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -3315,7 +3315,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -3640,7 +3640,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -3827,7 +3827,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -3930,7 +3930,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
@@ -4128,7 +4128,7 @@ title: Productos Tapas y chapas
                         </td>
         </tr>
                 <tr>
-            <td class="precio">0<span class='ceros'>.00</span></td>
+            <td class="precio"><span title='Por determinar'>?</span><span class='ceros'>.00</span></td>
             <td>Teneis botes de cristal?
                             <span title="GRACIAS">&#128712;</span>
                         </td>
@@ -4165,7 +4165,7 @@ title: Productos Tapas y chapas
 <table>
     <thead>
         <tr>
-        <th class="precio">Precio</th>
+        <th class="precio">Precio €</th>
         <th>Producto</th>
         </tr>
     </thead>
