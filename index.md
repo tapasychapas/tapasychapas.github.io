@@ -67,8 +67,16 @@ Si se te ocurre otra solución (quizá piensas que puedes asumir una nueva tarea
 
 # ¿Puedo pasarme a conoceros?
 
-Por supuesto, puedes venir directamente a algún reparto o asamblea y presentarte. Para preguntar cual es la próxima puedes dirigirte a [tapasychapas@gmail.com](mailto:tapasychapas@gmail.com?subject=Quiero+unirme+al+grupo+de+consumo).
+Por supuesto, puedes venir directamente a algún reparto o asamblea y presentarte. Para preguntar cual es la próxima puedes dirigirte a [tapasychapas@gmail.com](mailto:tapasychapas@gmail.com?subject=Quiero+conocer+al+grupo+de+consumo).
 
 # ¿Algo más que deba saber?
 
 Si, el grupo de consumo toma las decisiones por asamblea, eso quiere decir que aunque en la inmensa mayoría de los casos unirse la grupo es prácticamente automático tienes que tener en cuenta que si surge alguna duda (por ejemplo, nos planteas que no puedes asumir las tareas que se describen aquí pero se te ocurre otra cosa que podrías hacer para ayudar al grupo) tardaremos en contestarte porque la persona que esta tras el correo electrónico, o la que te atendió en persona el día que fuste a [La Casa del Barrio](http://casadelbarriocarabanchel.es/), no puede decidir por si sola y habrá que esperar a que haya una asamblea.
+
+# Ok, ¡Me apunto!
+
+Genial. Ahora escribe a [tapasychapas@gmail.com](mailto:tapasychapas@gmail.com?subject=Quiero+unirme+al+grupo+de+consumo), cuéntale que ya te has leído la información de esta web y te has pasado por un reparto o asamblea para conocer el grupo, y pide que te asignen una cesta en [karakolas](https://karakolas.net/).
+
+En cuanto la cesta este asignada recibirás un email con tu usuaria y contraseña, y podrás empezar a pedir para el próximo pedido.
+
+**¡Bienvenida!**
