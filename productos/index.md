@@ -1,8 +1,8 @@
 ---
-title: Productos Tapas y chapas
+title: Productos
 ---
 <div id="productos">
-<p>Esta lista de productos esta actualizada a fecha 06/05/2018 19:01 y es solo orientativo, los precios y la variedad puede cambiar.</p>
+<p>Esta lista de productos esta actualizada a fecha 06/05/2018 19:07 y es solo orientativo, los precios y la variedad puede cambiar.<br/>Los precios son por Kg. cuando nada indique lo contrarío.</p>
 
 <h1>APISQUILLOS</h1>
 
@@ -1819,15 +1819,15 @@ title: Productos Tapas y chapas
                         </td>
         </tr>
                 <tr>
-            <td class="precio">3<span class='ceros'>.00</span></td>
-            <td>Champú revitalizante de hierbas 
-                            <span title="250ml">&#128712;</span>
-                        </td>
-        </tr>
-                <tr>
             <td class="precio">5<span class='ceros'>.00</span></td>
             <td>Champú revitalizante de hierbas 
                             <span title="500ml">&#128712;</span>
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">3<span class='ceros'>.00</span></td>
+            <td>Champú revitalizante de hierbas 
+                            <span title="250ml">&#128712;</span>
                         </td>
         </tr>
                 <tr>
@@ -1843,15 +1843,15 @@ title: Productos Tapas y chapas
                         </td>
         </tr>
                 <tr>
-            <td class="precio">5<span class='ceros'>.00</span></td>
-            <td>Crema aftershave de sándalo y cedro 
-                            <span title="65ml">&#128712;</span>
-                        </td>
-        </tr>
-                <tr>
             <td class="precio">3<span class='ceros'>.00</span></td>
             <td>Crema aftershave de sándalo y cedro 
                             <span title="30ml">&#128712;</span>
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">5<span class='ceros'>.00</span></td>
+            <td>Crema aftershave de sándalo y cedro 
+                            <span title="65ml">&#128712;</span>
                         </td>
         </tr>
                 <tr>
