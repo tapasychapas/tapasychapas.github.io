@@ -28,3 +28,28 @@ section {
 #productos span[title] {
     cursor: help;
 }
+
+nav {
+    display: block;
+    background-color: black;
+    color: white;
+    margin-bottom: 15px;
+    padding-right: 17px;
+    padding-left: 17px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+body {
+    padding-top: 0px;
+}
+
+nav a {
+    color: white;
+    text-align: right;
+}
+
+a:hover, a:focus {
+    color: #069;
+    font-weight: unset;
+}
