@@ -43,7 +43,7 @@ Se hacen a través de [karakolas](https://karakolas.net/), una aplicación web a
 
 En cuanto te asignemos cesta, otra persona te explicará cómo funciona, pero verás que es muy sencillo.
 
-Adicionalmente tenemos una lista de correo ([tapasychapas@googlegroups.com](mailto:tapasychapas+subscribe@googlegroups.com?subjet=Solicito+suscribirme+a+esta+lista)) en la que todas las cestas pueden escribir, preguntar sus dudas o recibir cualquier aviso si ha habido algún problema.
+Adicionalmente tenemos una lista de correo ([{{site.list}}](mailto:tapasychapas+subscribe@googlegroups.com?subjet=Solicito+suscribirme+a+esta+lista)) en la que todas las cestas pueden escribir, preguntar sus dudas o recibir cualquier aviso si ha habido algún problema.
 
 # ¿Cuesta algo apuntarse al grupo?
 
@@ -67,7 +67,7 @@ Si se te ocurre otra solución (quizá piensas que puedes asumir una nueva tarea
 
 # ¿Puedo pasarme a conoceros?
 
-Por supuesto, puedes venir directamente a algún reparto o asamblea y presentarte. Para ello consulta [nuestro calendario]({{site.calendar}}) o pregunta cual es la próxima cita a [tapasychapas@gmail.com](mailto:tapasychapas@gmail.com?subject=Quiero+conocer+al+grupo+de+consumo).
+Por supuesto, puedes venir directamente a algún reparto o asamblea y presentarte. Para ello consulta [nuestro calendario]({{site.calendar}}) o pregunta cual es la próxima cita a [{{site.mail}}](mailto:{{site.mail}}?subject=Quiero+conocer+al+grupo+de+consumo).
 
 # ¿Algo más que deba saber?
 
@@ -75,7 +75,7 @@ Si, el grupo de consumo toma las decisiones por asamblea, eso quiere decir que a
 
 # Ok, ¡Me apunto!
 
-Genial. Ahora escribe a [tapasychapas@gmail.com](mailto:tapasychapas@gmail.com?subject=Quiero+unirme+al+grupo+de+consumo), cuéntale que ya te has leído la información de esta web y te has pasado por un reparto o asamblea para conocer el grupo, y pide que te asignen una cesta en [karakolas](https://karakolas.net/).
+Genial. Ahora escribe a [{{site.mail}}](mailto:{{site.mail}}?subject=Quiero+unirme+al+grupo+de+consumo), cuéntale que ya te has leído la información de esta web y te has pasado por un reparto o asamblea para conocer el grupo, y pide que te asignen una cesta en [karakolas](https://karakolas.net/).
 
 En cuanto la cesta esté asignada recibirás un email con tu usuaria y contraseña, y podrás empezar a pedir para el próximo pedido.
 
