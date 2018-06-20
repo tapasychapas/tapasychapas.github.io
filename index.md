@@ -67,7 +67,7 @@ Si se te ocurre otra solución (quizá piensas que puedes asumir una nueva tarea
 
 # ¿Puedo pasarme a conoceros?
 
-Por supuesto, puedes venir directamente a algún reparto o asamblea y presentarte. Para preguntar cual es la próxima puedes dirigirte a [tapasychapas@gmail.com](mailto:tapasychapas@gmail.com?subject=Quiero+conocer+al+grupo+de+consumo).
+Por supuesto, puedes venir directamente a algún reparto o asamblea y presentarte. Para ello consulta [nuestro calendario](https://calendar.google.com/calendar/embed?showTitle=0&showPrint=0&showTz=0&mode=AGENDA&height=600&wkst=2&hl=es&bgcolor=%23ffffff&src=tapasychapas%40gmail.com&color=%238D6F47&src=a2h12mb7k23085elbocu5kpat8%40group.calendar.google.com&color=%232F6309&src=mlacksb0tlrkvh5k7lnf5u6p2o%40group.calendar.google.com&color=%2329527A&src=ls4anm48dpj0kforforn5b4lfs%40group.calendar.google.com&color=%23711616&ctz=Europe%2FMadrid) o pregunta cual es la próxima cita a [tapasychapas@gmail.com](mailto:tapasychapas@gmail.com?subject=Quiero+conocer+al+grupo+de+consumo).
 
 # ¿Algo más que deba saber?
 
