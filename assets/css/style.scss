@@ -29,6 +29,10 @@ section {
     cursor: help;
 }
 
+body {
+    padding-top: 0px;
+}
+
 nav {
     display: block;
     background-color: black;
@@ -38,15 +42,12 @@ nav {
     padding-left: 17px;
     padding-top: 10px;
     padding-bottom: 10px;
-}
-
-body {
-    padding-top: 0px;
+    text-align: right;
 }
 
 nav a {
     color: white;
-    text-align: right;
+    font-weight: bold;
 }
 
 a:hover, a:focus {
