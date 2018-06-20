@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     {% if site.icon %}
-    <link rel="icon" href="{{site.icon}}">
+        {% assign ext = site.icon | split: '.' %}
+        <link rel="shortcut icon" type="image/{{ext.last}}" href="{{site.icon}}"/>
     {% endif %}
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
