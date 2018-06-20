@@ -67,7 +67,7 @@ Si se te ocurre otra solución (quizá piensas que puedes asumir una nueva tarea
 
 # ¿Puedo pasarme a conoceros?
 
-Por supuesto, puedes venir directamente a algún reparto o asamblea y presentarte. Para ello consulta [nuestro calendario]({{site.calendar}) o pregunta cual es la próxima cita a [tapasychapas@gmail.com](mailto:tapasychapas@gmail.com?subject=Quiero+conocer+al+grupo+de+consumo).
+Por supuesto, puedes venir directamente a algún reparto o asamblea y presentarte. Para ello consulta [nuestro calendario]({{site.calendar}}) o pregunta cual es la próxima cita a [tapasychapas@gmail.com](mailto:tapasychapas@gmail.com?subject=Quiero+conocer+al+grupo+de+consumo).
 
 # ¿Algo más que deba saber?
 
