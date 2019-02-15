@@ -2,7 +2,7 @@
 title: Productos
 ---
 <div id="productos">
-<p>Esta lista de productos está actualizada a fecha 15/02/2019 23:22 y es solamente orientativa: los precios y la variedad pueden cambiar.<br/>Los precios son por Kg. cuando no se indique lo contrarío.</p>
+<p>Esta lista de productos está actualizada a fecha 15/02/2019 23:46 y es solamente orientativa: los precios y la variedad pueden cambiar.<br/>Los precios son por Kg. cuando no se indique lo contrarío.</p>
 
 <h1>SENDA VERDE</h1>
 
@@ -3788,15 +3788,15 @@ title: Productos
                         </td>
         </tr>
                 <tr>
-            <td class="precio">3<span class='ceros'>.00</span></td>
-            <td>Gel suave para bebé de avena y caléndula 
-                            <span title="250ml">&#128712;</span>
-                        </td>
-        </tr>
-                <tr>
             <td class="precio">5<span class='ceros'>.00</span></td>
             <td>Gel suave para bebé de avena y caléndula 
                             <span title="500ml">&#128712;</span>
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">3<span class='ceros'>.00</span></td>
+            <td>Gel suave para bebé de avena y caléndula 
+                            <span title="250ml">&#128712;</span>
                         </td>
         </tr>
                 <tr>
@@ -3979,15 +3979,15 @@ title: Productos
                         </td>
         </tr>
                 <tr>
-            <td class="precio">3.50</td>
-            <td>Nutritiva antiarrugas piel muy seca
-                            <span title="30ml">&#128712;</span>
-                        </td>
-        </tr>
-                <tr>
             <td class="precio">6.50</td>
             <td>Nutritiva antiarrugas piel muy seca
                             <span title="50ml">&#128712;</span>
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">3.50</td>
+            <td>Nutritiva antiarrugas piel muy seca
+                            <span title="30ml">&#128712;</span>
                         </td>
         </tr>
                 <tr>
