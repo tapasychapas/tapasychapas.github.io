@@ -2,7 +2,7 @@
 title: Productos
 ---
 <div id="productos">
-<p>Esta lista de productos está actualizada a fecha 15/02/2019 23:46 y es solamente orientativa: los precios y la variedad pueden cambiar.<br/>Los precios son por Kg. cuando no se indique lo contrarío.</p>
+<p>Esta lista de productos está actualizada a fecha 16/02/2019 y es solamente orientativa: los precios y la variedad pueden cambiar.<br/>Los precios son por Kg. cuando no se indique lo contrarío.</p>
 
 <h1>SENDA VERDE</h1>
 
@@ -3500,15 +3500,15 @@ title: Productos
                         </td>
         </tr>
                 <tr>
-            <td class="precio">4.60</td>
-            <td>Aceite de caléndula 
-                            <span title="100ml">&#128712;</span>
-                        </td>
-        </tr>
-                <tr>
             <td class="precio">3.30</td>
             <td>Aceite de caléndula 
                             <span title="60ml">&#128712;</span>
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">4.60</td>
+            <td>Aceite de caléndula 
+                            <span title="100ml">&#128712;</span>
                         </td>
         </tr>
                 <tr>
