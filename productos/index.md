@@ -3620,15 +3620,15 @@ title: Productos
                         </td>
         </tr>
                 <tr>
-            <td class="precio">3<span class='ceros'>.00</span></td>
-            <td>Champú revitalizante de hierbas 
-                            <span title="250ml">&#128712;</span>
-                        </td>
-        </tr>
-                <tr>
             <td class="precio">5<span class='ceros'>.00</span></td>
             <td>Champú revitalizante de hierbas 
                             <span title="500ml">&#128712;</span>
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">3<span class='ceros'>.00</span></td>
+            <td>Champú revitalizante de hierbas 
+                            <span title="250ml">&#128712;</span>
                         </td>
         </tr>
                 <tr>
@@ -3788,15 +3788,15 @@ title: Productos
                         </td>
         </tr>
                 <tr>
-            <td class="precio">3<span class='ceros'>.00</span></td>
-            <td>Gel suave para bebé de avena y caléndula 
-                            <span title="250ml">&#128712;</span>
-                        </td>
-        </tr>
-                <tr>
             <td class="precio">5<span class='ceros'>.00</span></td>
             <td>Gel suave para bebé de avena y caléndula 
                             <span title="500ml">&#128712;</span>
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">3<span class='ceros'>.00</span></td>
+            <td>Gel suave para bebé de avena y caléndula 
+                            <span title="250ml">&#128712;</span>
                         </td>
         </tr>
                 <tr>
