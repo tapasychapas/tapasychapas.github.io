@@ -3500,15 +3500,15 @@ title: Productos
                         </td>
         </tr>
                 <tr>
-            <td class="precio">3.30</td>
-            <td>Aceite de caléndula 
-                            <span title="60ml">&#128712;</span>
-                        </td>
-        </tr>
-                <tr>
             <td class="precio">4.60</td>
             <td>Aceite de caléndula 
                             <span title="100ml">&#128712;</span>
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">3.30</td>
+            <td>Aceite de caléndula 
+                            <span title="60ml">&#128712;</span>
                         </td>
         </tr>
                 <tr>
@@ -3620,15 +3620,15 @@ title: Productos
                         </td>
         </tr>
                 <tr>
-            <td class="precio">5<span class='ceros'>.00</span></td>
-            <td>Champú revitalizante de hierbas 
-                            <span title="500ml">&#128712;</span>
-                        </td>
-        </tr>
-                <tr>
             <td class="precio">3<span class='ceros'>.00</span></td>
             <td>Champú revitalizante de hierbas 
                             <span title="250ml">&#128712;</span>
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">5<span class='ceros'>.00</span></td>
+            <td>Champú revitalizante de hierbas 
+                            <span title="500ml">&#128712;</span>
                         </td>
         </tr>
                 <tr>
@@ -3650,15 +3650,15 @@ title: Productos
                         </td>
         </tr>
                 <tr>
-            <td class="precio">5<span class='ceros'>.00</span></td>
-            <td>Crema aftershave de sándalo y cedro 
-                            <span title="65ml">&#128712;</span>
-                        </td>
-        </tr>
-                <tr>
             <td class="precio">3<span class='ceros'>.00</span></td>
             <td>Crema aftershave de sándalo y cedro 
                             <span title="30ml">&#128712;</span>
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">5<span class='ceros'>.00</span></td>
+            <td>Crema aftershave de sándalo y cedro 
+                            <span title="65ml">&#128712;</span>
                         </td>
         </tr>
                 <tr>
@@ -3788,15 +3788,15 @@ title: Productos
                         </td>
         </tr>
                 <tr>
-            <td class="precio">5<span class='ceros'>.00</span></td>
-            <td>Gel suave para bebé de avena y caléndula 
-                            <span title="500ml">&#128712;</span>
-                        </td>
-        </tr>
-                <tr>
             <td class="precio">3<span class='ceros'>.00</span></td>
             <td>Gel suave para bebé de avena y caléndula 
                             <span title="250ml">&#128712;</span>
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">5<span class='ceros'>.00</span></td>
+            <td>Gel suave para bebé de avena y caléndula 
+                            <span title="500ml">&#128712;</span>
                         </td>
         </tr>
                 <tr>
@@ -3979,15 +3979,15 @@ title: Productos
                         </td>
         </tr>
                 <tr>
-            <td class="precio">6.50</td>
-            <td>Nutritiva antiarrugas piel muy seca
-                            <span title="50ml">&#128712;</span>
-                        </td>
-        </tr>
-                <tr>
             <td class="precio">3.50</td>
             <td>Nutritiva antiarrugas piel muy seca
                             <span title="30ml">&#128712;</span>
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">6.50</td>
+            <td>Nutritiva antiarrugas piel muy seca
+                            <span title="50ml">&#128712;</span>
                         </td>
         </tr>
                 <tr>
