@@ -3500,15 +3500,15 @@ title: Productos
                         </td>
         </tr>
                 <tr>
-            <td class="precio">4.60</td>
-            <td>Aceite de caléndula 
-                            <span title="100ml">&#128712;</span>
-                        </td>
-        </tr>
-                <tr>
             <td class="precio">3.30</td>
             <td>Aceite de caléndula 
                             <span title="60ml">&#128712;</span>
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">4.60</td>
+            <td>Aceite de caléndula 
+                            <span title="100ml">&#128712;</span>
                         </td>
         </tr>
                 <tr>
@@ -3650,15 +3650,15 @@ title: Productos
                         </td>
         </tr>
                 <tr>
-            <td class="precio">3<span class='ceros'>.00</span></td>
-            <td>Crema aftershave de sándalo y cedro 
-                            <span title="30ml">&#128712;</span>
-                        </td>
-        </tr>
-                <tr>
             <td class="precio">5<span class='ceros'>.00</span></td>
             <td>Crema aftershave de sándalo y cedro 
                             <span title="65ml">&#128712;</span>
+                        </td>
+        </tr>
+                <tr>
+            <td class="precio">3<span class='ceros'>.00</span></td>
+            <td>Crema aftershave de sándalo y cedro 
+                            <span title="30ml">&#128712;</span>
                         </td>
         </tr>
                 <tr>
